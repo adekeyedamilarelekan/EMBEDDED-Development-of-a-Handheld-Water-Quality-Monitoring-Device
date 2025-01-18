@@ -1,0 +1,36 @@
+//Print degree symbol ° on LCD. 
+https://forum.arduino.cc/t/print-degree-symbol-on-lcd/19073
+
+
+
+https://how2electronics.com/tds-sensor-arduino-interfacing-water-quality-monitoring/
+
+https://randomnerdtutorials.com/esp32-tds-water-quality-sensor/
+
+https://how2electronics.com/aquarium-water-quality-monitor-with-tds-sensor-esp32/
+
+
+
+
+//pH
+https://circuitdigest.com/microcontroller-projects/arduino-ph-meter
+
+https://www.electroniclinic.com/esp32-ph-sensor-iot-ph-sensor-code-and-circuit-diagram/
+
+https://www.electronicsforu.com/electronics-projects/hydroponics-system-ph-measurement
+
+https://www.youtube.com/watch?v=Q7z7Ikmctxg
+
+https://www.youtube.com/watch?v=zUEl3Y3yKL4&t=371s
+
+https://www.electroniclinic.com/ph-meter-arduino-ph-meter-calibration-diymore-ph-sensor-arduino-code/
+
+https://www.electroniclinic.com/esp32-ph-sensor-iot-ph-sensor-code-and-circuit-diagram/
+
+
+//Print degree symbol ° on LCD. 
+https://forum.arduino.cc/t/print-degree-symbol-on-lcd/19073
+
+//DS18B20 For Dallas Temperature Sensor.
+https://randomnerdtutorials.com/guide-for-ds18b20-temperature-sensor-with-arduino/
+
